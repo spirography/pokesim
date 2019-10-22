@@ -1,0 +1,18 @@
+#canvas {
+    float: left;
+}
+
+#container {
+    padding: 20px;
+    float: left;
+}
+
+#data {
+    height: 150px;
+}
+
+#leaderboard {
+    width: 265px;
+    border-collapse: collapse;
+    text-align: center;
+}
